@@ -12,7 +12,7 @@ This repository contains an implementation of Bitcoin using mostly pure PHP.
 
 ## Installation
 
-You can install this library via Composer: `composer require bitwasp/bitcoin`
+You can install this library via Composer: `composer require qtumproject/bitcoin`
 
 ## Contributing
 
